@@ -2,7 +2,7 @@
 
 Welcome to the Stock Price Prediction App! This app allows you to visualize stock price data, explore technical indicators, and make short-term price predictions using machine learning models.
 
-Created and designed by [Mohammed Aadhil](www.linkedin.com/in/mohammed-aadhil-144245259).
+Created and designed by [Mohammed Aadhil](https://www.linkedin.com/in/mohammed-aadhil-144245259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPF%2FlJxFiRv%2BBtIQBV10afQ%3D%3D)
 
 ## Table of Contents
 
